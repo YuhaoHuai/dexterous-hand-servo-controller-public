@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+__pycache__/
+gui/command_library.json
+gui/joint_mapping.json
+gui/*.tmp
